@@ -2,15 +2,9 @@ import React from "react";
 import ReactDOM from "react-dom";
 import PropTypes from "prop-types";
 
-const colorClasses = {
-    'red': 'alert alert-danger',
-    'orange': 'alert alert-warning'
-}
-
 const Alert = props => {
-    return(<div className={`${colorClasses[props.color]}`} role="alert">
-        {props.text}
-        </div>)
+	//your component here
+
 };
 Alert.propTypes = {
 	color: PropTypes.string,

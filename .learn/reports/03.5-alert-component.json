@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "ReactDOM needs to be called once",
+      "status": "passed"
+    },
+    {
+      "title": "Component text is being passed properly",
+      "status": "passed"
+    },
+    {
+      "title": "The component should return the exact HTML",
+      "status": "passed"
+    }
+  ]
+}
