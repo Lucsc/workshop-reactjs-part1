@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "ReactDOM.render needs to be called once",
+      "status": "passed"
+    },
+    {
+      "title": "The component should return LITERALLY what was asked",
+      "status": "passed"
+    },
+    {
+      "title": "You should use the values of the customer object",
+      "status": "passed"
+    }
+  ]
+}

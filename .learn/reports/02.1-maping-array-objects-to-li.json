@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "ReactDOM.render needs to be called once",
+      "status": "passed"
+    },
+    {
+      "title": "The component should return the exact HTML",
+      "status": "passed"
+    },
+    {
+      "title": "You should use singleAnimal to get the anima for each of the iterations",
+      "status": "passed"
+    },
+    {
+      "title": "You should add the key for each of them and it should be unique",
+      "status": "passed"
+    }
+  ]
+}
